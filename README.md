@@ -82,7 +82,7 @@ Cryptocurrency investment is subject to high market risk.
 ### Install rust
 
 ``` shell
-url --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ### Install maturin
